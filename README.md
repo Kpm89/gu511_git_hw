@@ -35,4 +35,4 @@ conda env create -f environment.linux.yml
     + run with `python rzl.py`
     + this will offer you the ramblings of a teacher who thinks he is funnier than he is
 + `dspipeline.py`
-    + I have no idea what this does. I don't even care. maybe I'll delete it.
+    + a file containing some utilities for building data science pipelines, and an example that trains several models on adult salary data and selects the best based on cross validated metrics
